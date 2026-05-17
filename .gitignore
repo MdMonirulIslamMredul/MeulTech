@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+/.env
+/storage/*.key
+/public/storage
+/.idea
+/.vscode
+Homestead.json
+Homestead.yaml
+/.laravel.env
+.env.local
+.env.*.backup
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
